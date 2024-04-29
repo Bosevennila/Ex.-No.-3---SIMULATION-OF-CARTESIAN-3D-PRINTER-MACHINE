@@ -60,7 +60,6 @@
 
 ## Output:
 ![image](https://github.com/Bosevennila/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870486/1b63107c-2237-4958-bd34-66257cbca4c7)
-
 ### Name: CHANDRAPRIYADHARSHINI C
 ### Register Number: 212223240019
 
